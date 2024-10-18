@@ -1,1 +1,3 @@
 Blah Blah
+
+Commit #2: during squash
