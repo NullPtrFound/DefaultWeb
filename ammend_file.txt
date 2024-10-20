@@ -7,3 +7,7 @@ Commit #3: during squash
 Commit #4: during squash
 
 Commit #5: during squash
+
+Commit #6: started rebase by dev 2
+
+Commit #7: started rebase by dev 2 commit 2
