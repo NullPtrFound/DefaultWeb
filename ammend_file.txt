@@ -16,4 +16,8 @@ Commit #8: this is from dev2, making a bug fix
 
 Commit #8: dev 1, working on bug fix also
 
+Commit #9: cherry pick demo, commit 1
+
+Commit #10: cherry pick demo, commit 2
+
 no more commits after this line.
