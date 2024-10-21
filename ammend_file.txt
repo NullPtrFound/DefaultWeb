@@ -15,3 +15,5 @@ Commit #7: started rebase by dev 2 commit 2
 Commit #8: this is from dev2, making a bug fix
 
 Commit #8: dev 1, working on bug fix also
+
+no more commits after this line.
